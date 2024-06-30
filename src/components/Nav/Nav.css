@@ -1,0 +1,91 @@
+.icon{
+    font-size: 3rem;
+    cursor:pointer;
+    color:darkblue;
+}
+.section{
+    padding-left:1.5rem;
+    padding-right:1.5rem;
+}
+.flex{
+    display:flex;
+    font-size:40px;
+    margin-left:20px;
+    align-items:center;
+    color: darkblue;
+}
+NavLink{
+    text-decoration:none;
+}
+li{
+    list-style:none;
+}
+.btn{
+    padding: .4rem 1.5rem;
+    border:none;
+    outline:none;
+    border-radius: 3rem;
+    cursor:pointer;
+    background:darkblue;
+    font-weight:500;
+    font-family:sans-serif;
+}
+.btn NavLink{
+    color:white;
+}
+.btn NavLink:hover{
+    color:white;
+}
+.btn:hover{
+    background:red;
+    font-weight:500;
+    font-family: sans-serif;
+}
+input{
+    font-size:100%;
+}
+
+    .header{
+       /* position:fixed;
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+        width:100%;
+        padding:1rem;
+        z-index:1000;*/
+        padding-top:1.9rem;
+        box-shadow: 0 2px 4px darkblue;
+    }
+    .logoDiv{
+    .logo{
+        color:var(--primaryColor);
+        font-weight:500;
+        cursor:pointer;
+        align-items:center;
+        justify-content:center;
+    }
+    }
+
+nav{
+    display:  flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+nav ul li{
+    display : inline-block;
+    list-style : none;
+    margin: 15px 20px;
+
+}
+
+nav ul li NavLink{
+    color: darkblue;
+    text-decoration : none;
+    font-size:22px;
+    font-family:sans-serif;
+    font-weight:600;
+}
+nav ul li NavLink:hover{
+    color:red;
+}

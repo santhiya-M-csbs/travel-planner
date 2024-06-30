@@ -1,0 +1,40 @@
+.girl{
+    margin-top: -300px;
+    width:300px;
+    margin-left: 380px;
+    height:300px;
+   }
+   .b1{
+    height: 720px;
+    width:1470px;
+  }
+  .txt {
+    color: white;
+    size: 40px;
+    text-align: center;
+    font-family: 'Hanalei Fill', cursive;
+    position: absolute;
+    bottom: 350px;
+    left: 850px;
+    font-size: 60px;
+    font-weight: 5px;
+      
+  }
+  .imgcol{
+    padding-left: 10px;
+    
+  }
+ .colclr{
+    background-color: rgb(240, 240, 240);
+     border-radius: 15px; 
+    margin-left: 20px;
+    width:330px;
+    
+ }
+ .tab{
+    margin-left: 20px;
+ }
+ .txt1{
+   margin-top: 60px;
+   margin-left: 20px;
+ }

@@ -1,0 +1,77 @@
+/* body{
+  /* background-image: url("https://i.pinimg.com/originals/af/9b/a3/af9ba3dc8ffc337a1bd31afa75007e97.jpg"); }*/
+  
+  
+  .signup6_container2 {
+    background-image: url("https://i.pinimg.com/originals/af/9b/a3/af9ba3dc8ffc337a1bd31afa75007e97.jpg"); 
+  }
+   .signup_form{
+   background-color: lightblue;
+    width: 450px;
+    margin-left: 550px;
+    height: 620px;
+    border-radius: 25px;
+   margin-top: 100px;
+   position:absolute;
+
+  } 
+  .email3{
+    font-size: 20px;
+    padding-top:20px;
+    margin-left:74px;
+  }
+.name3{
+  font-size: 20px;
+  margin-top:10px;
+  margin-left:74px;
+
+}
+.password3{
+  font-size: 20px;
+  margin-top: 90px;
+  margin-left:74px;
+  /* margin-right: 82px; */
+}
+.confirm_password3{
+  font-size: 20px;
+  margin-top:90px;
+  margin-left:74px;
+}
+
+.form3{
+  margin-top: 100px;
+  width: 450px;
+   position:absolute;
+} 
+
+.title3{
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 150px;
+  font-size: 45px;
+  font-weight: 600;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.control{
+  margin-left:75px;
+  height:40px;
+  width:290px;
+}
+.can{
+  margin-left:120px;
+  height:30px;
+  width:100px;
+  background:lightcoral;
+  color:black;
+  font-size:20px;
+}
+.sig6{
+  margin-left:20px;
+  height:30px;
+  width:100px;
+  background:lightgreen;
+  font-size:20px;
+}
+.s7{
+  color:black;
+}
